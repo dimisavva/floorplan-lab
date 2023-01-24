@@ -1,11 +1,11 @@
 
-function Kitchen(props) {
+const Bath = (props) => {
   return (
     <div>
-      <h1>Kitchen</h1>
+      Bath
     </div>
   );
 }
 
 // Must export the component's function (or class)
-export default Kitchen;
+export default Bath;

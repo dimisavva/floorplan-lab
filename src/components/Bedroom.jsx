@@ -1,8 +1,9 @@
 
-function Bedroom(props) {
+
+const Bedroom = (props) => {
   return (
     <div>
-      <h1>Bedroom</h1>
+      Bedroom
     </div>
   );
 }

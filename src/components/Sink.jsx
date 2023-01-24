@@ -1,11 +1,12 @@
 
-function Bath(props) {
+
+const Sink = (props) => {
   return (
     <div>
-      <h1>Bath</h1>
+      Sink
     </div>
   );
 }
 
 // Must export the component's function (or class)
-export default Bath;
+export default Sink;
