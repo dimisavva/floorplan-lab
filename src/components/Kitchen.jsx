@@ -5,8 +5,8 @@ const Kitchen = (props) => {
   return (
     <div>
       Kitchen
-      <Sink name= 'Sink' /> 
       <Oven name= 'Oven' /> 
+      <Sink name= 'Sink' /> 
     </div>
   );
 }

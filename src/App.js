@@ -1,10 +1,10 @@
 import './App.css';
 import FloorPlan from './components/FloorPlan';
 
-function App() {
+const App = (props) => {
   return (
     < >
-     <FloorPlan name= 'FloorPlan' />
+    <FloorPlan name= '' />
     </>
   );
 }
